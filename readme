@@ -1,4 +1,4 @@
-Установка
+Installing
 
 pip install pdfkit
 sudo apt-get install wkhtmltopdf
