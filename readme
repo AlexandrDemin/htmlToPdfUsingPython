@@ -1,0 +1,10 @@
+Установка
+
+pip install pdfkit
+sudo apt-get install wkhtmltopdf
+pip install dominate
+pip install pygal
+pip install cairosvg
+sudo apt-get install libcairo2-dev
+pip install tinycss
+pip install cssselect
